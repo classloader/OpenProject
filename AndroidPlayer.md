@@ -1,3 +1,5 @@
+* 引用：http://mp.weixin.qq.com/s/hDz6xPCp3Q-fp6PFNykhFA
+
 ## 1.ijkplayer
 > 项目地址：https://github.com/Bilibili/ijkplayer<br/>
 > 介绍：Ijkplayer 是Bilibili发布的基于 FFplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API 易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供 Android 平台下应用弹幕集成的解决方案。
